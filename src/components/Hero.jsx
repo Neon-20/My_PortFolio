@@ -19,11 +19,7 @@ const Hero = () => {
     text-white`}> Hi, I'm <span className="text-8xl p-4 text-center font-bold from-purple-600 via-pink-600 to-blue-600 bg-gradient-to-r bg-clip-text text-transparent">Pranav </span>
     </h1>
     <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-    I am a FullStack Developer and a Product Architect.
-    <br className="sm:block hidden"/>
-    I design and build web applications that solve,
-    <br className="sm:block hidden"/>
-    practical problems and provide tangible value.
+    I am a <b>FullStack Developer</b> and a <b>Product Architect.</b> 
     </p>
     </div>  
     </div>
